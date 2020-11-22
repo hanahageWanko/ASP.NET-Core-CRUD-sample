@@ -1,0 +1,12 @@
+/Users/Weby/Desktop/git/book-list-razor/bin/Debug/netcoreapp2.0/book-list-razor.deps.json
+/Users/Weby/Desktop/git/book-list-razor/bin/Debug/netcoreapp2.0/book-list-razor.runtimeconfig.json
+/Users/Weby/Desktop/git/book-list-razor/bin/Debug/netcoreapp2.0/book-list-razor.runtimeconfig.dev.json
+/Users/Weby/Desktop/git/book-list-razor/bin/Debug/netcoreapp2.0/book-list-razor.dll
+/Users/Weby/Desktop/git/book-list-razor/bin/Debug/netcoreapp2.0/book-list-razor.pdb
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.csprojAssemblyReference.cache
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.AssemblyInfoInputs.cache
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.AssemblyInfo.cs
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.csproj.CoreCompileInputs.cache
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.dll
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.pdb
+/Users/Weby/Desktop/git/book-list-razor/obj/Debug/netcoreapp2.0/book-list-razor.genruntimeconfig.cache

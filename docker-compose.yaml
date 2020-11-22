@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  app:
+    image: mcr.microsoft.com/dotnet/core/sdk:latest
+    container_name: dotnetcoreapp
+    tty: true
+    ports:
+      - 10080:80
+    volumes:
+      - ./src:/src
+    working_dir: "/src"
+
+  mssql:
+    image: mcr.microsoft.com/mssql/rhel/server:2019-latest
+    container_name: 'mssql2019'
+    environment:
+      - MSSQL_SA_PASSWORD=databaseadmin@1
+      - ACCEPT_EULA=Y
+    ports:
+      - 1433:1433
+    # volumes: # Mounting a volume does not work on Docker for Mac
+    #   - ./mssql/log:/var/opt/mssql/log
+    #   - ./mssql/data:/var/opt/mssql/data
